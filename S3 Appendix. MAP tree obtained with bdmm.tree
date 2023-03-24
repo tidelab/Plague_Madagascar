@@ -1,0 +1,402 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=300;
+	taxlabels
+	'154/98B_1998_Mahajanga'
+	IP1086_1991_Mahajanga
+	IP1087_1991_Mahajanga
+	IP1089_1991_Mahajanga
+	IP1092_1991_Mahajanga
+	IP1093_1991_Mahajanga
+	IP1094_1991_Mahajanga
+	IP1095_1991_Mahajanga
+	IP1096_1992_Mahajanga
+	IP1097_1992_Mahajanga
+	IP1098_1992_Mahajanga
+	IP1099_1992_Mahajanga
+	IP1100_1995_Mahajanga
+	IP1102_1995_Mahajanga
+	IP1104_1995_Mahajanga
+	IP1105_1995_Mahajanga
+	IP1107_1995_Mahajanga
+	IP1108_1995_Mahajanga
+	IP1109_1995_Mahajanga
+	IP1110_1995_Mahajanga
+	IP1111_1995_Mahajanga
+	IP1113_1995_Mahajanga
+	IP1114_1995_Mahajanga
+	IP1118_1995_Mahajanga
+	IP1123_1995_Mahajanga
+	IP1124_1995_Mahajanga
+	IP1125_1995_Mahajanga
+	IP1126_1995_Mahajanga
+	IP1127_1995_Highlands
+	IP1128_1995_Highlands
+	IP1132_1991_Mahajanga
+	IP1143_1995_Highlands
+	IP1144_1995_Mahajanga
+	IP1146_1995_Highlands
+	IP1151_1995_Mahajanga
+	IP1152_1995_Highlands
+	IP1153_1995_Highlands
+	IP1154_1995_Mahajanga
+	IP1164_1995_Highlands
+	IP1289_1977_Highlands
+	IP1294_1995_Highlands
+	IP1296_1996_Highlands
+	IP1302_1996_Highlands
+	IP1303_1996_Highlands
+	IP1304_1996_Highlands
+	IP1305_1996_Highlands
+	IP1306_1996_Mahajanga
+	IP1307_1996_Highlands
+	IP1311_1996_Highlands
+	IP1312_1996_Highlands
+	IP1313_1996_Highlands
+	IP1317_1996_Highlands
+	IP1318_1996_Mahajanga
+	IP1319_1996_Highlands
+	IP1321_1996_Highlands
+	IP1323_1996_Highlands
+	IP1324_1996_Highlands
+	IP1325_1996_Highlands
+	IP1326_1996_Highlands
+	IP1327_1996_Highlands
+	IP1328_1996_Highlands
+	IP1329_1996_Highlands
+	IP1330_1996_Highlands
+	IP1331_1996_Mahajanga
+	IP1332_1996_Mahajanga
+	IP1333_1996_Mahajanga
+	IP1334_1996_Mahajanga
+	IP1336_1996_Highlands
+	IP1337_1996_Highlands
+	IP1339_1996_Highlands
+	IP1344_1996_Highlands
+	IP1345_1996_Highlands
+	IP1346_1996_Highlands
+	IP1347_1996_Highlands
+	IP1348_1996_Highlands
+	IP1349_1996_Highlands
+	IP1351_1996_Highlands
+	IP1362_1996_Highlands
+	IP1372_1996_Highlands
+	IP1382_1996_Mahajanga
+	IP1384_1996_Highlands
+	IP1385_1996_Mahajanga
+	IP1386_1996_Mahajanga
+	IP1387_1996_Mahajanga
+	IP1388_1996_Highlands
+	IP1389_1996_Mahajanga
+	IP1391_1996_Highlands
+	IP1394_1996_Mahajanga
+	IP1395_1996_Mahajanga
+	IP1396_1996_Mahajanga
+	IP1397_1996_Highlands
+	IP1399_1995_Highlands
+	IP1400_1996_Highlands
+	IP1401_1996_Mahajanga
+	IP1402_1996_Mahajanga
+	IP1403_1996_Mahajanga
+	IP1404_1996_Mahajanga
+	IP1405_1996_Mahajanga
+	IP1406_1996_Mahajanga
+	IP1407_1996_Mahajanga
+	IP1408_1996_Mahajanga
+	IP1409_1996_Mahajanga
+	IP1410_1996_Mahajanga
+	IP1411_1996_Mahajanga
+	IP1412_1996_Mahajanga
+	IP1413_1996_Mahajanga
+	IP1414_1996_Mahajanga
+	IP1415_1996_Mahajanga
+	IP1416_1996_Mahajanga
+	IP1417_1996_Highlands
+	IP1418_1996_Mahajanga
+	IP1419_1996_Mahajanga
+	IP1420_1996_Mahajanga
+	IP1421_1996_Mahajanga
+	IP1422_1996_Mahajanga
+	IP1423_1996_Mahajanga
+	IP1447_1996_Highlands
+	IP1451_1996_Highlands
+	IP1452_1996_Highlands
+	IP1453_1996_Highlands
+	IP1455_1996_Mahajanga
+	IP1456_1996_Mahajanga
+	IP1457_1996_Mahajanga
+	IP1458_1996_Mahajanga
+	IP1459_1996_Highlands
+	IP1460_1996_Highlands
+	IP1461_1996_Mahajanga
+	IP1462_1996_Highlands
+	IP1463_1996_Highlands
+	IP1470_1996_Highlands
+	IP1471_1996_Highlands
+	IP1472_1995_Highlands
+	IP1473_1995_Highlands
+	IP1474_1995_Highlands
+	IP1475_1995_Highlands
+	IP1476_1995_Highlands
+	IP1477_1995_Highlands
+	IP1478_1994_Highlands
+	IP1484_1994_Highlands
+	IP1496_1995_Highlands
+	IP1498_1995_Highlands
+	IP1510_1996_Highlands
+	IP1511_1996_Highlands
+	IP1513_1996_Highlands
+	IP1515_1991_Mahajanga
+	IP1516_1991_Mahajanga
+	IP1517_1991_Mahajanga
+	IP1518_1991_Mahajanga
+	IP1519_1991_Mahajanga
+	IP1521_1994_Highlands
+	IP1522_1994_Highlands
+	IP1531_1991_Mahajanga
+	IP1596_1997_Highlands
+	IP1600_1998_Highlands
+	IP1605_1995_Mahajanga
+	IP1606_1995_Mahajanga
+	IP1607_1995_Mahajanga
+	IP1608_1995_Mahajanga
+	IP1609_1995_Mahajanga
+	IP1610_1995_Mahajanga
+	IP1611_1995_Mahajanga
+	IP1612_1995_Mahajanga
+	IP1613_1996_Mahajanga
+	IP1614_1997_Mahajanga
+	IP1615_1997_Mahajanga
+	IP1616_1997_Mahajanga
+	IP1617_1997_Mahajanga
+	IP1618_1997_Mahajanga
+	IP1619_1997_Mahajanga
+	IP1620_1997_Mahajanga
+	IP1621_1997_Mahajanga
+	IP1622_1997_Mahajanga
+	IP1623_1997_Mahajanga
+	IP1624_1997_Mahajanga
+	IP1625_1997_Mahajanga
+	IP1646_1995_Mahajanga
+	IP1647_1995_Mahajanga
+	IP1659_1997_Highlands
+	IP1660_1997_Highlands
+	IP1668_1997_Highlands
+	IP1676_1997_Highlands
+	IP1677_1997_Highlands
+	IP1678_1997_Highlands
+	IP1682_1995_Mahajanga
+	IP1683_1997_Mahajanga
+	IP1718_1997_Highlands
+	IP1719_1998_Highlands
+	IP1720_1997_Highlands
+	IP1721_1997_Highlands
+	IP1722_1997_Highlands
+	IP1723_1997_Highlands
+	IP1725_1999_Highlands
+	IP1731_1998_Highlands
+	IP1732_1998_Highlands
+	IP1733_1998_Mahajanga
+	IP1775_1999_Highlands
+	IP1779_2000_Highlands
+	IP1780_2000_Highlands
+	IP1785_1999_Highlands
+	IP1786_2000_Highlands
+	IP1787_2000_Highlands
+	IP1788_1999_Highlands
+	IP1789_1999_Highlands
+	IP1793_1999_Highlands
+	IP1795_2000_Highlands
+	IP1796_1996_Highlands
+	IP1798_1998_Highlands
+	IP1811_1997_Highlands
+	IP1817_2000_Highlands
+	IP1845_2000_Highlands
+	IP1850_1999_Highlands
+	IP1851_1997_Highlands
+	IP1854_2000_Highlands
+	IP1858_1999_Highlands
+	IP2210_2001_Highlands
+	IP2211_2001_Highlands
+	IP2216_2000_Highlands
+	IP2217_1999_Highlands
+	IP2218_1999_Highlands
+	IP2219_1999_Mahajanga
+	IP2220_1999_Mahajanga
+	IP2226_1998_Highlands
+	IP2227_1998_Mahajanga
+	IP2228_1998_Mahajanga
+	IP2229_1998_Highlands
+	IP2230_1998_Highlands
+	IP2232_1997_Mahajanga
+	IP2233_1997_Highlands
+	IP2235_1997_Highlands
+	IP2236_1997_Mahajanga
+	IP2238_1997_Mahajanga
+	IP2239_1997_Mahajanga
+	IP2241_1997_Mahajanga
+	IP2242_1997_Mahajanga
+	IP2243_1997_Mahajanga
+	IP2244_1997_Highlands
+	IP2245_1997_Mahajanga
+	IP2246_1997_Highlands
+	IP2247_1996_Highlands
+	IP244_1992_Highlands
+	IP249_1993_Highlands
+	IP259_1994_Highlands
+	IP265_1994_Highlands
+	IP266_1994_Highlands
+	IP267_1994_Highlands
+	IP268_1994_Highlands
+	IP272_1995_Highlands
+	IP273_1995_Highlands
+	IP274_1995_Highlands
+	IP275_1995_Highlands
+	IP276_1995_Highlands
+	IP277_1995_Highlands
+	IP278_1995_Highlands
+	IP279_1995_Highlands
+	IP280_1995_Highlands
+	IP285_1995_Highlands
+	IP304_1969_Highlands
+	IP600_1982_Highlands
+	IP601_1984_Highlands
+	IP630_1974_Highlands
+	IP634_1991_Highlands
+	IP643_1983_Highlands
+	IP656_1964_Highlands
+	IP657_1983_Highlands
+	IP658_1983_Highlands
+	IP659_1986_Highlands
+	IP661_1988_Highlands
+	IP662_1989_Highlands
+	IP664_1990_Highlands
+	IP665_1990_Highlands
+	IP666_1992_Highlands
+	IP668_1993_Highlands
+	MG05-1020_2005_Highlands
+	Yp2856_2003_Highlands
+	Yp2871_2004_Highlands
+	Yp2872_2004_Highlands
+	Yp2905_2004_Highlands
+	Yp2947_2006_Highlands
+	Yp2963_2006_Highlands
+	Yp2983_2007_Highlands
+	Yp2991_2007_Highlands
+	Yp3014_2007_Highlands
+	Yp3016_2007_Highlands
+	Yp3017_2007_Highlands
+	Yp3019_2008_Highlands
+	Yp3023_2008_Highlands
+	Yp3026_2008_Highlands
+	Yp3034_2008_Highlands
+	Yp3041_2009_Highlands
+	Yp3042_2009_Highlands
+	Yp3043_2009_Highlands
+	Yp3044_2009_Highlands
+	Yp3045_2009_Highlands
+	Yp3048_2009_Highlands
+	Yp3050_2010_Highlands
+	Yp3059_2011_Highlands
+	Yp3069_2011_Highlands
+	Yp3078_2011_Highlands
+	Yp3079_2012_Highlands
+	Yp3083_2012_Highlands
+;
+end;
+
+begin trees;
+	tree STATE_270200000 = [&R] (((((((((((((((((((((((IP1086_1991_Mahajanga[&type="0"]:1.681542,IP1516_1991_Mahajanga[&type="0"]:1.780289)[&label=436,type="0"]:0.371077,(IP1094_1991_Mahajanga[&type="0"]:0.915493,IP1515_1991_Mahajanga[&type="0"]:0.678175)[&label=569,type="0"]:1.17934)[&label=452,type="0"]:1.328304,IP1097_1992_Mahajanga[&type="0"]:4.423987)[&label=336,type="0"]:0.559899,((IP1095_1991_Mahajanga[&type="0"]:3.374915,IP1087_1991_Mahajanga[&type="0"]:3.057446)[&label=486,type="0"]:0.04367,IP1531_1991_Mahajanga[&type="0"]:3.42208)[&label=568,type="0"]:0.952667)[&label=579,type="0"]:0.642916,(IP1096_1992_Mahajanga[&type="0"]:4.446842,(IP1519_1991_Mahajanga[&type="0"]:3.863388,IP1517_1991_Mahajanga[&type="0"]:3.708231)[&label=562,type="0"]:0.368616)[&label=337,type="0"]:0.716279)[&label=449,type="0"]:1.619514,((IP1099_1992_Mahajanga[&type="0"]:4.864501,IP1518_1991_Mahajanga[&type="0"]:3.719992)[&label=581,type="0"]:2.456269,(IP1098_1992_Mahajanga[&type="0"]:4.970842,IP1132_1991_Mahajanga[&type="0"]:3.208634)[&label=530,type="0"]:2.23536)[&label=547,type="0"]:0.264775)[&label=313,type="0"]:0.944753,(IP1092_1991_Mahajanga[&type="0"]:5.029588,(IP1093_1991_Mahajanga[&type="0"]:3.762004,IP1089_1991_Mahajanga[&type="0"]:3.65711)[&label=324,type="0"]:1.745342)[&label=546,type="0"]:1.642254)[&label=573,type="0"]:2.008977)[&label=604,type="1"]:1.536752,IP2230_1998_Highlands[&type="1"]:17.72111)[&label=580,type="1"]:1.755097,((((((((((((((IP1110_1995_Mahajanga[&type="0"]:9.871656,(((IP1118_1995_Mahajanga[&type="0"]:3.530444,(IP1422_1996_Mahajanga[&type="0"]:2.323151,(IP1416_1996_Mahajanga[&type="0"]:1.840548,IP1394_1996_Mahajanga[&type="0"]:2.418689)[&label=475,type="0"]:0.337889)[&label=458,type="0"]:1.895145)[&label=456,type="0"]:2.736967,((IP1154_1995_Mahajanga[&type="0"]:5.098447,IP1406_1996_Mahajanga[&type="0"]:6.253467)[&label=428,type="0"]:0.54613,(IP1418_1996_Mahajanga[&type="0"]:6.742969,(IP1420_1996_Mahajanga[&type="0"]:5.986216,IP1682_1995_Mahajanga[&type="0"]:4.852223)[&label=418,type="0"]:0.171405)[&label=394,type="0"]:0.090474)[&label=462,type="0"]:0.732227)[&label=437,type="0"]:1.547415,((IP1402_1996_Mahajanga[&type="0"]:7.605381,(IP1419_1996_Mahajanga[&type="0"]:6.670377,IP1407_1996_Mahajanga[&type="0"]:5.947647)[&label=341,type="0"]:0.920459)[&label=359,type="0"]:0.103292,(IP1615_1997_Mahajanga[&type="0"]:6.188363,((((IP1625_1997_Mahajanga[&type="0"]:1.386048,IP2236_1997_Mahajanga[&type="0"]:1.068589)[&label=519,type="0"]:1.082567,IP1623_1997_Mahajanga[&type="0"]:1.960707)[&label=441,type="0"]:0.969119,IP1624_1997_Mahajanga[&type="0"]:3.459184)[&label=471,type="0"]:1.926695,IP2245_1997_Mahajanga[&type="0"]:5.327421)[&label=481,type="0"]:0.619089)[&label=556,type="0"]:2.467161)[&label=445,type="0"]:1.386507)[&label=537,type="0"]:2.535488)[&label=503,type="0"]:0.11407,(((IP1125_1995_Mahajanga[&type="0"]:3.807925,(IP1412_1996_Mahajanga[&type="0"]:4.197264,IP1605_1995_Mahajanga[&type="0"]:3.35892)[&label=500,type="0"]:0.393579)[&label=514,type="0"]:5.066755,(IP1107_1995_Mahajanga[&type="0"]:5.301884,IP1458_1996_Mahajanga[&type="0"]:6.978953)[&label=531,type="0"]:3.111246)[&label=527,type="0"]:0.172061,(((((IP1331_1996_Mahajanga[&type="0"]:5.884581,(IP1395_1996_Mahajanga[&type="0"]:5.955368,IP1456_1996_Mahajanga[&type="0"]:5.992332)[&label=390,type="0"]:0.378336)[&label=477,type="0"]:0.460412,IP1403_1996_Mahajanga[&type="0"]:6.675385)[&label=407,type="0"]:0.808406,IP1606_1995_Mahajanga[&type="0"]:6.870886)[&label=444,type="0"]:0.081539,IP1396_1996_Mahajanga[&type="0"]:7.285054)[&label=364,type="0"]:1.950672,(((IP1100_1995_Mahajanga[&type="0"]:5.166168,IP1609_1995_Mahajanga[&type="0"]:5.783707)[&label=534,type="0"]:0.112217,IP1332_1996_Mahajanga[&type="0"]:6.641249)[&label=512,type="0"]:0.514142,(IP1607_1995_Mahajanga[&type="0"]:5.867757,IP1409_1996_Mahajanga[&type="0"]:6.784864)[&label=330,type="0"]:0.214369)[&label=515,type="0"]:2.624615)[&label=525,type="0"]:0.383663)[&label=420,type="0"]:1.391343)[&label=450,type="0"]:0.242528,(((((IP1126_1995_Mahajanga[&type="0"]:6.460886,IP1382_1996_Mahajanga[&type="0"]:7.941873)[&label=513,type="0"]:1.776673,(IP1612_1995_Mahajanga[&type="0"]:3.986987,IP1611_1995_Mahajanga[&type="0"]:4.622254)[&label=532,type="0"]:3.852067)[&label=543,type="0"]:0.341369,(IP1415_1996_Mahajanga[&type="0"]:6.897357,IP1387_1996_Mahajanga[&type="0"]:6.592079)[&label=429,type="0"]:3.179772)[&label=529,type="0"]:0.426337,(IP1306_1996_Mahajanga[&type="0"]:7.06645,((IP1333_1996_Mahajanga[&type="0"]:5.453207,(IP1404_1996_Mahajanga[&type="0"]:4.248544,IP1646_1995_Mahajanga[&type="0"]:2.710427)[&label=520,type="0"]:1.857639)[&label=542,type="0"]:1.261306,(IP1334_1996_Mahajanga[&type="0"]:4.599606,IP1386_1996_Mahajanga[&type="0"]:4.504116)[&label=476,type="0"]:2.257955)[&label=373,type="0"]:0.295675)[&label=389,type="0"]:2.770744)[&label=558,type="0"]:1.209489,(((IP1124_1995_Mahajanga[&type="0"]:5.285855,IP1455_1996_Mahajanga[&type="0"]:6.205901)[&label=434,type="0"]:1.309878,IP1423_1996_Mahajanga[&type="0"]:7.865049)[&label=438,type="0"]:2.532527,IP1411_1996_Mahajanga[&type="0"]:9.868556)[&label=493,type="0"]:1.304279)[&label=399,type="0"]:0.342043)[&label=328,type="0"]:0.565942,((((IP1618_1997_Mahajanga[&type="0"]:7.077838,IP1622_1997_Mahajanga[&type="0"]:6.639277)[&label=351,type="0"]:2.439461,(((IP1620_1997_Mahajanga[&type="0"]:6.994893,IP1733_1998_Mahajanga[&type="0"]:8.470433)[&label=380,type="0"]:0.024206,(IP1614_1997_Mahajanga[&type="0"]:3.365534,IP2220_1999_Mahajanga[&type="0"]:5.095126)[&label=495,type="0"]:4.146253)[&label=392,type="0"]:1.49688,IP2228_1998_Mahajanga[&type="0"]:9.950873)[&label=383,type="0"]:0.509648)[&label=371,type="0"]:1.268451,((IP1617_1997_Mahajanga[&type="0"]:9.202093,((IP1619_1997_Mahajanga[&type="0"]:7.238071,IP2219_1999_Mahajanga[&type="0"]:9.153966)[&label=378,type="0"]:0.459109,IP2241_1997_Mahajanga[&type="0"]:8.123946)[&label=353,type="0"]:1.619352)[&label=365,type="0"]:0.400288,(((IP1621_1997_Mahajanga[&type="0"]:7.289033,IP2239_1997_Mahajanga[&type="0"]:7.617183)[&label=376,type="0"]:0.674148,(IP2243_1997_Mahajanga[&type="0"]:4.97536,(IP2244_1997_Highlands[&type="1"]:1.452372)[&label=602,type="0"]:3.396149)[&label=356,type="0"]:3.097229)[&label=386,type="0"]:1.104831,(IP2227_1998_Mahajanga[&type="0"]:4.36076,'154/98B_1998_Mahajanga'[&type="0"]:4.510444)[&label=393,type="0"]:6.07807)[&label=432,type="0"]:0.643807)[&label=304,type="0"]:0.762053)[&label=468,type="0"]:0.38707,IP2238_1997_Mahajanga[&type="0"]:10.555716)[&label=348,type="0"]:2.120782)[&label=470,type="0"]:0.055349,(((IP1104_1995_Mahajanga[&type="0"]:6.187136,IP1413_1996_Mahajanga[&type="0"]:7.213393)[&label=347,type="0"]:2.170191,(IP1616_1997_Mahajanga[&type="0"]:6.683264,IP2242_1997_Mahajanga[&type="0"]:6.040507)[&label=431,type="0"]:3.737696)[&label=467,type="0"]:0.376654,((((IP1318_1996_Mahajanga[&type="0"]:5.226599,IP1401_1996_Mahajanga[&type="0"]:4.929823)[&label=335,type="0"]:1.095529,IP1405_1996_Mahajanga[&type="0"]:6.328161)[&label=372,type="0"]:0.151517,(IP1111_1995_Mahajanga[&type="0"]:4.754963,IP1647_1995_Mahajanga[&type="0"]:4.946217)[&label=361,type="0"]:1.034116)[&label=411,type="0"]:1.402877,IP1408_1996_Mahajanga[&type="0"]:7.769615)[&label=402,type="0"]:1.327303)[&label=387,type="0"]:2.813592)[&label=344,type="0"]:0.12494,((IP1151_1995_Mahajanga[&type="0"]:6.765054,(IP1123_1995_Mahajanga[&type="0"]:4.200487,IP1389_1996_Mahajanga[&type="0"]:4.988833)[&label=357,type="0"]:2.462843)[&label=384,type="0"]:1.075404,IP1683_1997_Mahajanga[&type="0"]:9.610494)[&label=375,type="0"]:3.881554)[&label=415,type="0"]:0.210673,IP1610_1995_Mahajanga[&type="0"]:11.941587)[&label=397,type="0"]:0.308301,((((IP1144_1995_Mahajanga[&type="0"]:4.360971,IP1108_1995_Mahajanga[&type="0"]:4.24759)[&label=523,type="0"]:2.696006,IP1414_1996_Mahajanga[&type="0"]:7.651921)[&label=455,type="0"]:1.520294,((((IP1102_1995_Mahajanga[&type="0"]:5.172538,(IP1114_1995_Mahajanga[&type="0"]:4.057078,IP1385_1996_Mahajanga[&type="0"]:4.325841)[&label=488,type="0"]:1.531816)[&label=413,type="0"]:0.651107,(IP1457_1996_Mahajanga[&type="0"]:5.066406,IP1613_1996_Mahajanga[&type="0"]:4.661247)[&label=461,type="0"]:1.686761)[&label=405,type="0"]:1.055054,(IP1421_1996_Mahajanga[&type="0"]:6.48804,IP1410_1996_Mahajanga[&type="0"]:6.696905)[&label=491,type="0"]:1.345111)[&label=403,type="0"]:0.076523,(IP1113_1995_Mahajanga[&type="0"]:2.145775,IP1461_1996_Mahajanga[&type="0"]:3.416781)[&label=419,type="0"]:4.658507)[&label=464,type="0"]:1.252398)[&label=463,type="0"]:0.780837,IP1608_1995_Mahajanga[&type="0"]:9.265844)[&label=446,type="0"]:2.923763)[&label=398,type="0"]:0.281217,IP1109_1995_Mahajanga[&type="0"]:12.403956)[&label=511,type="0"]:0.287491)[&label=603,type="1"]:0.329535,(IP1719_1998_Highlands[&type="1"]:15.214027,IP1325_1996_Highlands[&type="1"]:12.685715)[&label=539,type="1"]:0.807296)[&label=430,type="1"]:0.958257,IP1400_1996_Highlands[&type="1"]:14.252901)[&label=410,type="1"]:0.194683,(IP1152_1995_Highlands[&type="1"]:13.580729,((IP1725_1999_Highlands[&type="1"]:2.831555,IP1452_1996_Highlands[&type="1"]:0.260749)[&label=522,type="1"]:8.060768,IP1659_1997_Highlands[&type="1"]:9.445253)[&label=518,type="1"]:6.304061)[&label=517,type="1"]:0.219837)[&label=459,type="1"]:1.615457,(((IP1668_1997_Highlands[&type="1"]:3.025387,IP1660_1997_Highlands[&type="1"]:3.695997)[&label=366,type="1"]:8.149336,IP1476_1995_Highlands[&type="1"]:9.447516)[&label=374,type="1"]:2.479837,IP1397_1996_Highlands[&type="1"]:12.821143)[&label=400,type="1"]:3.523017)[&label=505,type="1"]:0.893413)[&label=451,type="1"]:0.191185,(IP244_1992_Highlands[&type="1"]:12.548013,(IP1351_1996_Highlands[&type="1"]:4.729957,IP1850_1999_Highlands[&type="1"]:7.984226)[&label=563,type="1"]:11.403413)[&label=567,type="1"]:1.169324)[&label=577,type="1"]:3.882085,(((((((((((((IP1105_1995_Mahajanga[&type="0"]:0.137043)[&label=600,type="1"]:0.629713,IP1146_1995_Highlands[&type="1"]:0.265832)[&label=370,type="1"]:1.647986,IP1164_1995_Highlands[&type="1"]:2.079758)[&label=474,type="1"]:2.916322,IP268_1994_Highlands[&type="1"]:4.349625)[&label=550,type="1"]:6.266431,((IP272_1995_Highlands[&type="1"]:5.98872,IP274_1995_Highlands[&type="1"]:6.368091)[&label=571,type="1"]:0.792389,IP276_1995_Highlands[&type="1"]:6.832138)[&label=585,type="1"]:4.226989)[&label=533,type="1"]:0.632446,(IP1312_1996_Highlands[&type="1"]:7.646312,(IP1313_1996_Highlands[&type="1"]:0.100304,IP1324_1996_Highlands[&type="1"]:0.482239)[&label=526,type="1"]:7.065031)[&label=494,type="1"]:5.561416)[&label=508,type="1"]:1.389577,((IP267_1994_Highlands[&type="1"]:5.379388,IP1473_1995_Highlands[&type="1"]:5.681886)[&label=510,type="1"]:5.489154,IP273_1995_Highlands[&type="1"]:12.017045)[&label=433,type="1"]:1.769294)[&label=521,type="1"]:0.164484,(IP1128_1995_Highlands[&type="1"]:10.368239,(IP1475_1995_Highlands[&type="1"]:7.551529,IP1399_1995_Highlands[&type="1"]:7.754255)[&label=497,type="1"]:2.697461)[&label=350,type="1"]:3.544954)[&label=466,type="1"]:0.020349,IP280_1995_Highlands[&type="1"]:13.230086)[&label=310,type="1"]:0.55046,(((IP278_1995_Highlands[&type="1"]:8.946837,(IP279_1995_Highlands[&type="1"]:7.044669,IP266_1994_Highlands[&type="1"]:6.053339)[&label=369,type="1"]:1.972865)[&label=368,type="1"]:2.365946,(IP1677_1997_Highlands[&type="1"]:10.338691,IP1676_1997_Highlands[&type="1"]:9.710421)[&label=552,type="1"]:3.172737)[&label=540,type="1"]:1.755679,(IP1153_1995_Highlands[&type="1"]:12.26014,((IP277_1995_Highlands[&type="1"]:5.635307,IP1472_1995_Highlands[&type="1"]:5.826213)[&label=396,type="1"]:3.798637,IP1346_1996_Highlands[&type="1"]:11.385932)[&label=340,type="1"]:2.116409)[&label=560,type="1"]:0.895423)[&label=536,type="1"]:1.25948)[&label=499,type="1"]:0.606551,(IP285_1995_Highlands[&type="1"]:9.474026,IP2218_1999_Highlands[&type="1"]:14.365541)[&label=574,type="1"]:4.810953)[&label=342,type="1"]:0.068443,((IP1127_1995_Highlands[&type="1"]:10.485618,(((IP2216_2000_Highlands[&type="1"]:1.014244,IP1775_1999_Highlands[&type="1"]:0.093799)[&label=507,type="1"]:10.805822,Yp3042_2009_Highlands[&type="1"]:20.925455)[&label=528,type="1"]:0.529559,IP1678_1997_Highlands[&type="1"]:8.842553)[&label=524,type="1"]:3.028233)[&label=535,type="1"]:1.192491,(IP2211_2001_Highlands[&type="1"]:6.551603,IP1474_1995_Highlands[&type="1"]:1.277061)[&label=504,type="1"]:10.26035)[&label=338,type="1"]:3.59839)[&label=358,type="1"]:4.512905,IP1345_1996_Highlands[&type="1"]:20.792315)[&label=538,type="1"]:1.1171)[&label=360,type="1"]:2.386982,Yp3016_2007_Highlands[&type="1"]:34.627925)[&label=343,type="1"]:5.400786,((((IP1845_2000_Highlands[&type="1"]:5.314437,IP2229_1998_Highlands[&type="1"]:3.458853)[&label=381,type="1"]:1.385086,IP2217_1999_Highlands[&type="1"]:6.221311)[&label=480,type="1"]:0.176739,IP1789_1999_Highlands[&type="1"]:6.475824)[&label=448,type="1"]:16.463804,(IP1143_1995_Highlands[&type="1"]:14.952743,((IP1329_1996_Highlands[&type="1"]:9.15442,IP1327_1996_Highlands[&type="1"]:9.000951)[&label=408,type="1"]:6.49711,IP1328_1996_Highlands[&type="1"]:15.999071)[&label=391,type="1"]:0.214725)[&label=440,type="1"]:3.870587)[&label=362,type="1"]:9.441273)[&label=329,type="1"]:5.596657,((IP1786_2000_Highlands[&type="1"]:34.465084,(((IP1303_1996_Highlands[&type="1"]:5.907795,IP1304_1996_Highlands[&type="1"]:6.498128)[&label=331,type="1"]:9.266021,(IP1451_1996_Highlands[&type="1"]:5.755275,IP1391_1996_Highlands[&type="1"]:5.350382)[&label=385,type="1"]:9.875111)[&label=457,type="1"]:2.312374,Yp3026_2008_Highlands[&type="1"]:29.555973)[&label=570,type="1"]:12.013584)[&label=422,type="1"]:2.174389,(((IP1302_1996_Highlands[&type="1"]:14.006269,(IP2210_2001_Highlands[&type="1"]:18.218637,(IP1336_1996_Highlands[&type="1"]:5.855606,IP1337_1996_Highlands[&type="1"]:5.242254)[&label=416,type="1"]:7.988035)[&label=447,type="1"]:0.712903)[&label=404,type="1"]:0.491243,IP1321_1996_Highlands[&type="1"]:14.769519)[&label=442,type="1"]:17.12213,((((IP2226_1998_Highlands[&type="1"]:16.320685,IP2233_1997_Highlands[&type="1"]:15.286188)[&label=349,type="1"]:10.853429,IP2247_1996_Highlands[&type="1"]:24.961327)[&label=566,type="1"]:6.398739,IP1793_1999_Highlands[&type="1"]:34.379485)[&label=545,type="1"]:0.188082,((IP1796_1996_Highlands[&type="1"]:8.594889,IP1388_1996_Highlands[&type="1"]:8.337017)[&label=412,type="1"]:8.327627,IP1384_1996_Highlands[&type="1"]:16.840978)[&label=435,type="1"]:14.783496)[&label=576,type="1"]:0.264977)[&label=363,type="1"]:0.307854)[&label=502,type="1"]:2.684064)[&label=406,type="1"]:16.362954,((((IP1817_2000_Highlands[&type="1"]:4.302528,IP1787_2000_Highlands[&type="1"]:4.815895)[&label=572,type="1"]:9.08516,IP1811_1997_Highlands[&type="1"]:11.019613)[&label=395,type="1"]:0.802928,IP634_1991_Highlands[&type="1"]:5.629113)[&label=506,type="1"]:4.360787,IP2246_1997_Highlands[&type="1"]:15.933083)[&label=498,type="1"]:36.428092)[&label=501,type="1"]:13.778302,(((IP2235_1997_Highlands[&type="1"]:10.197513,IP1372_1996_Highlands[&type="1"]:8.680754)[&label=326,type="1"]:2.426536,IP1362_1996_Highlands[&type="1"]:11.021708)[&label=414,type="1"]:10.889949,IP275_1995_Highlands[&type="1"]:21.68866)[&label=516,type="1"]:42.698359)[&label=478,type="1"]:2.991685,((((IP265_1994_Highlands[&type="1"]:5.298471,IP1462_1996_Highlands[&type="1"]:7.578322)[&label=548,type="1"]:3.325428,(IP1471_1996_Highlands[&type="1"]:9.498133,Yp3069_2011_Highlands[&type="1"]:25.024131)[&label=487,type="1"]:1.30085)[&label=483,type="1"]:14.202654,(IP1453_1996_Highlands[&type="1"]:19.816312,Yp2856_2003_Highlands[&type="1"]:26.643351)[&label=388,type="1"]:5.492473)[&label=453,type="1"]:1.18716,((((IP1720_1997_Highlands[&type="1"]:12.957205,IP1459_1996_Highlands[&type="1"]:11.867787)[&label=327,type="1"]:2.425803,Yp2905_2004_Highlands[&type="1"]:21.743148)[&label=352,type="1"]:0.396811,IP1470_1996_Highlands[&type="1"]:14.819813)[&label=302,type="1"]:0.786831,(IP1323_1996_Highlands[&type="1"]:10.416634,IP1347_1996_Highlands[&type="1"]:10.738724)[&label=332,type="1"]:4.73309)[&label=379,type="1"]:11.019996)[&label=382,type="1"]:41.609765)[&label=443,type="1"]:0.911502,((IP1722_1997_Highlands[&type="1"]:11.594973,IP1723_1997_Highlands[&type="1"]:12.233737)[&label=311,type="1"]:40.054923,(IP643_1983_Highlands[&type="1"]:7.858562,Yp3017_2007_Highlands[&type="1"]:31.653153)[&label=489,type="1"]:30.203294)[&label=316,type="1"]:18.031948)[&label=409,type="1"]:0.774886,((((((((IP1307_1996_Highlands[&type="1"]:9.24364,IP1305_1996_Highlands[&type="1"]:9.361459)[&label=469,type="1"]:2.277974,IP1311_1996_Highlands[&type="1"]:11.608253)[&label=355,type="1"]:12.048873,(IP1330_1996_Highlands[&type="1"]:8.103199,Yp3043_2009_Highlands[&type="1"]:21.514932)[&label=325,type="1"]:15.363449)[&label=306,type="1"]:4.340636,(((IP1731_1998_Highlands[&type="1"]:16.659983,((IP1732_1998_Highlands[&type="1"]:10.958502,Yp3019_2008_Highlands[&type="1"]:21.147055)[&label=482,type="1"]:3.728673,MG05-1020_2005_Highlands[&type="1"]:21.742521)[&label=346,type="1"]:2.517438)[&label=314,type="1"]:0.295299,IP1785_1999_Highlands[&type="1"]:17.99238)[&label=492,type="1"]:6.013492,IP1477_1995_Highlands[&type="1"]:20.258351)[&label=473,type="1"]:7.05316)[&label=308,type="1"]:7.236777,((IP1854_2000_Highlands[&type="1"]:12.086155,IP1851_1997_Highlands[&type="1"]:9.633835)[&label=317,type="1"]:3.728699,Yp2963_2006_Highlands[&type="1"]:21.972494)[&label=485,type="1"]:23.541005)[&label=479,type="1"]:0.479743,((IP1721_1997_Highlands[&type="1"]:3.106756,IP1718_1997_Highlands[&type="1"]:3.432532)[&label=424,type="1"]:8.297257,Yp3078_2011_Highlands[&type="1"]:25.648389)[&label=490,type="1"]:25.174903)[&label=465,type="1"]:18.447119,((IP2232_1997_Mahajanga[&type="0"]:4.709453)[&label=601,type="1"]:16.216324,(IP1463_1996_Highlands[&type="1"]:17.232184,(IP1447_1996_Highlands[&type="1"]:4.531083,Yp3048_2009_Highlands[&type="1"]:17.259196)[&label=309,type="1"]:12.138328)[&label=582,type="1"]:3.455638)[&label=472,type="1"]:34.166116)[&label=557,type="1"]:6.971685,((IP1780_2000_Highlands[&type="1"]:5.587413,IP1779_2000_Highlands[&type="1"]:5.605951)[&label=549,type="1"]:9.562728,IP1798_1998_Highlands[&type="1"]:12.830441)[&label=345,type="1"]:50.492408)[&label=303,type="1"]:8.272718)[&label=377,type="1"]:14.05691,(((((IP1319_1996_Highlands[&type="1"]:12.001559,IP1317_1996_Highlands[&type="1"]:11.654102)[&label=593,type="1"]:7.677458,((IP1348_1996_Highlands[&type="1"]:7.270839,IP1326_1996_Highlands[&type="1"]:7.294489)[&label=454,type="1"]:2.234038,Yp3083_2012_Highlands[&type="1"]:25.628279)[&label=421,type="1"]:9.812318)[&label=334,type="1"]:3.872815,((((IP1858_1999_Highlands[&type="1"]:11.265146,(Yp2872_2004_Highlands[&type="1"]:13.174935,Yp2991_2007_Highlands[&type="1"]:15.868019)[&label=305,type="1"]:3.825488)[&label=321,type="1"]:2.651159,Yp3059_2011_Highlands[&type="1"]:26.30754)[&label=496,type="1"]:4.734778,IP600_1982_Highlands[&type="1"]:1.956393)[&label=541,type="1"]:3.750594,Yp3050_2010_Highlands[&type="1"]:33.907605)[&label=439,type="1"]:3.344165)[&label=575,type="1"]:17.155995,((((IP1460_1996_Highlands[&type="1"]:14.489868,Yp3045_2009_Highlands[&type="1"]:27.244449)[&label=323,type="1"]:16.396837,IP1289_1977_Highlands[&type="1"]:11.598773)[&label=423,type="1"]:0.606506,IP304_1969_Highlands[&type="1"]:3.892496)[&label=583,type="1"]:8.931793,IP1484_1994_Highlands[&type="1"]:37.895343)[&label=596,type="1"]:0.306881)[&label=595,type="1"]:9.422572,Yp3023_2008_Highlands[&type="1"]:62.062261)[&label=590,type="1"]:34.002234)[&label=578,type="1"]:21.016411,(((((IP1788_1999_Highlands[&type="1"]:10.765043,Yp3079_2012_Highlands[&type="1"]:23.701138)[&label=307,type="1"]:4.600955,(IP1417_1996_Highlands[&type="1"]:8.940696,Yp3014_2007_Highlands[&type="1"]:19.168632)[&label=312,type="1"]:4.210141)[&label=301,type="1"]:4.960764,Yp2947_2006_Highlands[&type="1"]:27.290522)[&label=318,type="1"]:55.449642,(IP601_1984_Highlands[&type="1"]:50.220615,(((IP656_1964_Highlands[&type="1"]:0.943182,IP661_1988_Highlands[&type="1"]:24.672179)[&label=339,type="1"]:4.347625,Yp3034_2008_Highlands[&type="1"]:49.15517)[&label=594,type="1"]:8.131626,IP259_1994_Highlands[&type="1"]:43.659674)[&label=322,type="1"]:16.451412)[&label=354,type="1"]:11.289929)[&label=592,type="1"]:18.029399,Yp3044_2009_Highlands[&type="1"]:103.993713)[&label=598,type="1"]:13.534451)[&label=333,type="1"]:9.558253,(((((((IP1795_2000_Highlands[&type="1"]:13.885423,Yp3041_2009_Highlands[&type="1"]:22.594266)[&label=320,type="1"]:3.547942,((IP668_1993_Highlands[&type="1"]:5.54576,IP666_1992_Highlands[&type="1"]:4.374056)[&label=559,type="1"]:3.0275,IP665_1990_Highlands[&type="1"]:5.023773)[&label=561,type="1"]:1.914402)[&label=417,type="1"]:1.575071,(IP664_1990_Highlands[&type="1"]:3.742906,IP1513_1996_Highlands[&type="1"]:3.347592)[&label=584,type="1"]:4.954451)[&label=591,type="1"]:0.205182,((IP1296_1996_Highlands[&type="1"]:8.101764,Yp2983_2007_Highlands[&type="1"]:19.023429)[&label=319,type="1"]:6.115015,IP657_1983_Highlands[&type="1"]:1.224261)[&label=589,type="1"]:1.120305)[&label=315,type="1"]:0.083346,IP659_1986_Highlands[&type="1"]:5.614872)[&label=565,type="1"]:6.173402,(IP1339_1996_Highlands[&type="1"]:10.50416,IP1344_1996_Highlands[&type="1"]:10.732034)[&label=367,type="1"]:11.006116)[&label=460,type="1"]:30.554126,((IP630_1974_Highlands[&type="1"]:16.251247,(((IP1349_1996_Highlands[&type="1"]:17.281275,IP662_1989_Highlands[&type="1"]:10.338494)[&label=587,type="1"]:6.47095,((IP1294_1995_Highlands[&type="1"]:1.613988,IP1498_1995_Highlands[&type="1"]:1.070136)[&label=427,type="1"]:6.564718,(IP1522_1994_Highlands[&type="1"]:2.675839,IP1521_1994_Highlands[&type="1"]:2.830986)[&label=509,type="1"]:4.042035)[&label=426,type="1"]:14.404623)[&label=484,type="1"]:9.630815,IP658_1983_Highlands[&type="1"]:20.045852)[&label=564,type="1"]:5.437178)[&label=588,type="1"]:8.65393,(((IP1478_1994_Highlands[&type="1"]:7.610641,IP1596_1997_Highlands[&type="1"]:10.538948)[&label=555,type="1"]:3.233409,(IP1496_1995_Highlands[&type="1"]:0.883772,Yp2871_2004_Highlands[&type="1"]:10.682703)[&label=553,type="1"]:10.393399)[&label=401,type="1"]:15.815713,(((IP249_1993_Highlands[&type="1"]:5.717989,IP1600_1998_Highlands[&type="1"]:10.558714)[&label=554,type="1"]:5.188352,IP1511_1996_Highlands[&type="1"]:13.91094)[&label=425,type="1"]:1.921232,IP1510_1996_Highlands[&type="1"]:15.733302)[&label=597,type="1"]:13.232058)[&label=544,type="1"]:18.543288)[&label=586,type="1"]:4.730656)[&label=551,type="1"]:62.439691)[&label=599,type="1"];
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="type";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=2.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="Agency FB";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="Agency FB";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute=null;
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute=null;
+	set nodeShapeInternal.colourAttribute=null;
+	set nodeShapeInternal.isShown=true;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=true;
+	set scaleAxis.lineWidth=2.0;
+	set scaleAxis.majorTicks=25.0;
+	set scaleAxis.minorTicks=5.0;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=false;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=false;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=20.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="Agency FB";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="decreasing";
+	set trees.rooting=false;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
