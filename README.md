@@ -1,1 +1,1 @@
-# Plauge_Madagascar
+# Plague_Madagascar
